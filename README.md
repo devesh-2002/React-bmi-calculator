@@ -4,3 +4,4 @@ This is a BMI Calculator, where user has to enter height and weight and he/she w
 1. HTML 
 2. CSS
 3. React
+## Running the project
