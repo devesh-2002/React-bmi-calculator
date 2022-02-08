@@ -10,4 +10,4 @@ This is a BMI Calculator, where user has to enter height and weight and he/she w
 ``git clone https://github.com/<your-username>/React-bmi-calculator``
 3. Open terminal, cd into your project folder.
 4. In terminal, type the command ``npm start``
-5. Open the project on ``localhost:3000``
+5. Open the project on ```http://localhost:3000```
